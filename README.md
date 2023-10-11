@@ -1,7 +1,8 @@
 # OODProject
 automatic machine for the sale of drinks and snacks. a project in the depth of OOD principles, including UML.
 
-The program written with the follow patterns:
+
+**The program written with the follow patterns:**
 
 Chain of Responsibility (behavioral) - to manage the buying process
 
